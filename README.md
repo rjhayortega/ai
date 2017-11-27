@@ -83,31 +83,3 @@ mongorestore --drop --db=iky-ai --dir=dump/iky-ai/
 exit
 ```
 
-### Tutorial
-
-Checkout this basic tutorial on youtube,
-
-[![IMAGE ALT TEXT HERE](https://preview.ibb.co/fj9N3v/Screenshot_from_2017_04_05_03_11_04.png)](https://www.youtube.com/watch?v=S1Fj7WinaBA)
-
-
-Watch tutorial on [Fullfilling your Chatbot Intent with an API Call - Recipe Search Bot](https://www.youtube.com/watch?v=gqO69ojLobQ)
-
-Please visit my [website](http://alfredfrancis.github.io) to see my personal chatbot in action
-
-### Dependencies documentations
-* [NLTK documentation](www.nltk.org/)
-* [SKLearn documentation](http://scikit-learn.org/)
-* [CRFsuite documentation](http://www.chokkan.org/software/crfsuite/)
-* [python CRfSuite](https://python-crfsuite.readthedocs.io/en/latest/)
-
-
-### Todos
- *  Write Unit Tests
- *  Improve intent classification accuracy
- *  Add parameter types
- *  Migrate UI to React JS
-
-**Free Software, Hell Yeah!**
-<hr></hr>
-
-_Made with :heart: at God's Own Country_.
